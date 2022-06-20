@@ -19,3 +19,9 @@ function isOdd(number){
 
 isOdd(5)
 isOdd(6)
+
+function add(p1,p2){
+    console.log(`${p1}+${p2}=${p1+p2}`)
+}
+
+add(5,10)
