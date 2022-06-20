@@ -49,3 +49,8 @@ function cube(number){
 }
 
 cube(2)
+function square(number){
+    console.log(`squareof ${number}=${number **2 }`)
+}
+
+square(2)
