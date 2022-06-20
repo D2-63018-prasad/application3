@@ -25,3 +25,10 @@ function add(p1,p2){
 }
 
 add(5,10)
+
+function substract(p1,p2){
+    console.log(`${p1}-${p2}=${p1-p2}`)
+}
+
+substract(30,20)
+
