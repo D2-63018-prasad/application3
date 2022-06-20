@@ -43,3 +43,9 @@ function multiply(p1,p2){
 }
 
 multiply(3,2)
+
+function cube(number){
+    console.log(`cubeof ${number}=${number **3 }`)
+}
+
+cube(2)
