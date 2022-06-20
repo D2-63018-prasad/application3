@@ -43,3 +43,9 @@ function multiply(p1,p2){
 }
 
 multiply(3,2)
+
+function square(number){
+    console.log(`squareof ${number}=${number **2 }`)
+}
+
+square(2)
