@@ -66,3 +66,11 @@ function substract2(p1,p2){
 }
 
 substract2(10,15)
+
+function cube1(number){
+    console.log(`cubeof ${number}=${number **3 }`)
+}
+
+cube1(3)
+
+
