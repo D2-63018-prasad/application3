@@ -60,3 +60,9 @@ function add2(p1,p2){
 }
 
 add2(10,15)
+
+function substract2(p1,p2){
+    console.log(`${p1}-${p2}=${p1-p2}`)
+}
+
+substract2(10,15)
